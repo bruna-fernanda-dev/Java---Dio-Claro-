@@ -1,2 +1,3 @@
 # Java---Dio-Claro-
-Repositório destinado ao curso de JAVA
+Repositorio destinado ao curso de JAVA
+Alterando o conteudo de forma local
